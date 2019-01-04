@@ -24,6 +24,7 @@
         "drupal/better_exposed_filters": "^3.0@alpha",
         "drupal/captcha": "^1.0@beta",
         "drupal/console": "~1.0",
+        "drupal/context": "^4.0@beta",
         "drupal/core": "^8.6.0",
         "drupal/ctools": "^3.0",
         "drupal/devel": "^1.2",
