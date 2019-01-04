@@ -34,6 +34,7 @@
         "drupal/extlink": "^1.1",
         "drupal/facets": "^1.2",
         "drupal/fontyourface": "^3.2",
+        "drupal/ldap": "^3.0@beta",
         "drupal/mailsystem": "^4.1",
         "drupal/rules": "^3.0@alpha",
         "drupal/search_api_solr": "^2.4",
