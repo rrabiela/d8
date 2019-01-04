@@ -31,6 +31,8 @@
         "drupal/devel": "^1.2",
         "drupal/diff": "^1.0@RC",
         "drupal/drush": "^6.0@RC",
+        "drupal/extlink": "^1.1",
+        "drupal/facets": "^1.2",
         "drupal/fontyourface": "^3.2",
         "drupal/mailsystem": "^4.1",
         "drupal/rules": "^3.0@alpha",
