@@ -22,6 +22,7 @@
         "drupal/admin_toolbar": "^1.25",
         "drupal/console": "~1.0",
         "drupal/core": "^8.6.0",
+        "drupal/devel": "^1.2",
         "drupal/drush": "^6.0@RC",
         "drupal/fontyourface": "^3.2",
         "drupal/search_api_solr": "^2.4",
