@@ -23,6 +23,8 @@
         "drupal/console": "~1.0",
         "drupal/core": "^8.6.0",
         "drupal/drush": "^6.0@RC",
+        "drupal/fontyourface": "^3.2",
+        "drupal/search_api_solr": "^2.4",
         "drush/drush": "^9.0.0",
         "vlucas/phpdotenv": "^2.4",
         "webflo/drupal-finder": "^1.0.0",
